@@ -150,8 +150,7 @@ header{
     display: flex;
     height: 100%;
     flex-direction: column;
-    justify-content: space-evenly;;
-    align-items: center;
+    justify-content: space-evenly;
     margin: 0;
     padding: 0;
 }
